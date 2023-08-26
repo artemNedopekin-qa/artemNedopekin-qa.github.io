@@ -5,7 +5,7 @@
 }
 :root {
 	--index: calc(1vw + 1vh);
-	--text: #e7e7e0;
+	--text: hsl(60, 57%, 63%);
 	--transition: transform .75s cubic-bezier(.075, .5, 0, 1);
 }
 @font-face {
